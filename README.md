@@ -1,4 +1,4 @@
-# finance1
+# Vuejs app starter
 
 ## Project setup
 ```
