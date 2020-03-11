@@ -1,5 +1,5 @@
 <template>
   <div>
-    Container
+    Summary
   </div>
 </template>
